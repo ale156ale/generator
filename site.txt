@@ -1,0 +1,1 @@
+http://labs.infyom.com/laravelgenerator/docs/5.8/getting-started
